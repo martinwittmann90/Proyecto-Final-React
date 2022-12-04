@@ -15,7 +15,7 @@ const Cart = () => {
         sx={{
           color: "#3771b3",
           margin: 3,}}
-        >No hay elementos en el carrito</Typography>
+        >No hay elementos en el carrito.</Typography>
         <Link to="/">
           <Button
             sx={{
