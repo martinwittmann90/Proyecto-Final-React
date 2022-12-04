@@ -1,0 +1,13 @@
+.logoBottom {
+  margin: 0px;
+  padding: 0;
+  border: 0;
+  width: 0px;
+  height: 0px;
+  cursor: pointer;
+  padding-right: 50px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
